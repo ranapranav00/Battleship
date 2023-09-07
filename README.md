@@ -1,7 +1,25 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/tqZ-4RLU)
-# 3500 PA04 - BattleSalvo - Part 2 Project Repo
+[Battleship]
+A modified version of traditional battleship, can run player vs player, player vs bot, or bot vs bot.
 
-[PA04 Write-Up](https://markefontenot.notion.site/PA-04-BattleSalvo-Part-2-20ff66267da84956b35794bf8452c2fd)
+
+[Description]
+Essentially a terminal Battleship game between any combination of players or AI. AI utilizes a parity
+based algorithm to increase it's odds of hitting a ship tile. Project utilizes MVC guidelines to separate 
+program responsibilities. Can play locally with another person/bot, or play on a server as seen in instructions below.
+
+
+[Getting Started]
+
+First clone the repository and run it in an IDE of your choice.
+git clone "https://github.com/ranapranav00/Battleship.git"
+
+1. Playing locally
+    - Simply modify the player1/player2 variable in the Driver.java file to be ManualPlayer or AiPlayer depending on your preference.
+    - Run program with 0 arguments
+
+2. Playing on externally hosted server
+    - Enter arguments as labeled in comments in Driver.java file.
+
 
 This template includes several additional tools:
 1. Gradle Build Automation
