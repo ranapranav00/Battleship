@@ -11,6 +11,7 @@ program responsibilities. Can play locally with another person/bot, or play on a
 ## Getting Started
 
 First clone the repository and run it in an IDE of your choice.
+
 - git clone "https://github.com/ranapranav00/Battleship.git"
 
 1. Playing locally
