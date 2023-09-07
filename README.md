@@ -1,4 +1,4 @@
-#Battleship
+*Battleship*
 A modified version of traditional battleship, can run player vs player, player vs bot, or bot vs bot.
 
 
