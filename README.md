@@ -1,14 +1,14 @@
-*Battleship*
+# Battleship
 A modified version of traditional battleship, can run player vs player, player vs bot, or bot vs bot.
 
 
-[Description]
+## Description
 Essentially a terminal Battleship game between any combination of players or AI. AI utilizes a parity
 based algorithm to increase it's odds of hitting a ship tile. Project utilizes MVC guidelines to separate 
 program responsibilities. Can play locally with another person/bot, or play on a server as seen in instructions below.
 
 
-[Getting Started]
+## Getting Started
 
 First clone the repository and run it in an IDE of your choice.
 git clone "https://github.com/ranapranav00/Battleship.git"
