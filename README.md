@@ -11,7 +11,7 @@ program responsibilities. Can play locally with another person/bot, or play on a
 ## Getting Started
 
 First clone the repository and run it in an IDE of your choice.
-git clone "https://github.com/ranapranav00/Battleship.git"
+- git clone "https://github.com/ranapranav00/Battleship.git"
 
 1. Playing locally
     - Simply modify the player1/player2 variable in the Driver.java file to be ManualPlayer or AiPlayer depending on your preference.
